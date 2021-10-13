@@ -24,9 +24,10 @@ A operação search retorna a primeira posição (iniciando de 0) em que o eleme
 
 Você não pode usar coleção ou método algum do Collections framework. Sua implementação deve em nós ligados por referência.
 
-Dica: Crie a classe Fila para organizar o seu código.
-
 Lembre-se: tst vai testar apenas a entrada e saída do seu programa. Isso significa que você deve construir o main que leia os dados da entrada padrão manipula a sua Fila e imprime o que se espera na saída.
+
+## 👉 Dica
+Crie a classe Fila para organizar o seu código.
 
 ## 📥 Input
 
