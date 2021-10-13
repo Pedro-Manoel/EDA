@@ -24,9 +24,10 @@ Se a pilha estiver cheia e for lida a operação push, imprima `full`.
 
 Você não pode usar coleção ou método algum do Collections framework. Sua implementação deve ser baseada em arrays.
 
-Dica: Crie a classe Pilha para organizar o seu código. Contudo, lembre-se que não pode haver outra classe no seu arquivo. Por isso, o seu main deve estar nessa classe.
-
 Lembre-se: tst vai testar apenas a entrada e saída do seu programa. Isso significa que você deve construir o main que leia os dados da entrada padrão manipula a sua pilha e imprime o que se espera na saída.
+
+## 👉 Dica
+Crie a classe Pilha para organizar o seu código. Contudo, lembre-se que não pode haver outra classe no seu arquivo. Por isso, o seu main deve estar nessa classe.
 
 ## 📥 Input
 
